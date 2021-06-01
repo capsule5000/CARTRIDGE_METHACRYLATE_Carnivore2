@@ -8,3 +8,5 @@ This methacrylate cartridge is specially designed for the Carnivore2 PCB of the 
 
 ![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Carnivore2/blob/main/Images/c2rear1.png)
 
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Carnivore2/blob/main/Images/c2up.png)
+
