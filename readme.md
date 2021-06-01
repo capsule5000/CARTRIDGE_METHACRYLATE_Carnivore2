@@ -1,8 +1,6 @@
-# O4MEGAv2
+# CARTRIDGE_METHACRYLATE_Carnivore2
 
-The O4MEGA PCB is a memory upgrade for the MSX2 + OMEGA designed by Sergey Kiselev. Expand your computer's RAM memory up to 4096Kb.
-For more information about the MSX2 + OMEGA you can visit the author's website
-https://github.com/skiselev
+This methacrylate cartridge is specially designed for the Carnivore2 PCB of the RBSC group. It has custom all the cutouts for the compact flash slot and the audio jack input. It also incorporates the STL file to 3D print the separators that close the cartridge
 
 # IMAGES
 
