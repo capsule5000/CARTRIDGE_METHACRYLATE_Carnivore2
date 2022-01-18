@@ -1,6 +1,6 @@
 # CARTRIDGE_METHACRYLATE_Carnivore2
 
-This methacrylate cartridge is specially designed for the Carnivore2 PCB of the RBSC group. It has custom all the cutouts for the compact flash slot and the audio jack input. It also incorporates the STL file to 3D print the separators that close the cartridge
+This methacrylate cartridge is specially designed for the Carnivore2 PCB of the RBSC group. It has custom all the cutouts for the compact flash slot and the audio jack input. It also incorporates the STL file to 3D print the separators that close the cartridge. You have to superglue the back of the cartridge with the sides and top of the casing
 
 # IMAGES
 
